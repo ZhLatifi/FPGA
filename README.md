@@ -11,4 +11,4 @@ I-Format: beq, bne, lw, sw, addi, addiu, slti, sltiu, andi, ori, xori, lui
 
 J-Format: j, jal
 
-3. Working with MicroBlaze and Vivado HLS software
+2. Working with MicroBlaze and Vivado HLS software
